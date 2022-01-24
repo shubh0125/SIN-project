@@ -1,0 +1,7 @@
+# Interrelation between the Covid 19 and the Aviation industry
+
+We have involved the study of the interrelation between the Covid 19 pandemic and the Aviation industry. It is well known that international travel has triggered the pandemic and which has, in turn, led to a drastic decline in air travel. We
+have emphasized this correlation. Significant reductions in passenger numbers have resulted in flights being cancelled or planes flying empty between airports, which in turn massively reduced revenues for airlines and forced many airlines to lay off employees or declare bankruptcy. Some have attempted to avoid refunding
+cancelled trips to diminish their losses. Airline manufacturers and airport
+operators also have laid-off employees. 
+Finally, we wish to correlate the Global airline network with the Covid 19 crisis. It is important to measure certain parameters to check how the airline network has contributed to spreading the infection across nations. Closeness centrality is one such parameter that dictates the speed of spreading of the virus. The greater the closeness centrality of a country, the more likely it is to mediate infections. To validate this statement and thus carry out an analysis, we would be plotting 7 graphs for major countries against this parameter and analysing them. We’ll, in turn, check how the pandemic has affected this network and led to a decline in scheduled flights globally.
