@@ -1,0 +1,204 @@
+COUNTRY,Closeness Centrality,CODE
+Afghanistan,0.49,AFG
+Albania,0.56,ALB
+Algeria,0.61,DZA
+Angola ,0.53,AGO
+Anguilla,0.5,AIA
+Antigua and Barbuda,0.58,ATG
+Argentina,0.58,ARG
+Armenia,0.59,ARM
+Aruba,0.52,ABW
+Australia,0.59,AUS
+Austria,0.82,AUT
+Azerbaijan,0.64,AZE
+"Bahamas, The",0.55,BHM
+Bahrain,0.65,BHR
+Bangladesh,0.57,BGD
+Barbados,0.58,BRB
+Belarus,0.58,BLR
+Belgium,0.81,BEL
+Belize,0.5,BLZ
+Benin,0.5,BEN
+Bermuda,0.55,BMU
+Bhutan,0.43,BTN
+Bolivia,0.52,BOL
+Bosnia and Herzegovina,0.55,BIH
+Botswana,0.41,BWA
+Brazil,0.68,BRA
+British Virgin Islands,0.5,VGB
+Brunei,0.49,BRN
+Bulgaria,0.65,BGR
+Burkina Faso,0.49,BFA
+Burundi,0.46,BDI
+Cambodia,0.48,KHM
+Cameroon,0.5,CMR
+Canada,0.82,CAN
+Cape Verde ,0.58,CPV
+Cayman Islands,0.51,CYM
+Central African Republic,0.49,CAF
+Chad,0.49,TCD
+Chile,0.57,CHL
+China,0.79,CHN
+Colombia,0.57,COL
+Comoros,0.39,COM
+"Congo, Democratic Republic of the",0.51,COD
+Cook Islands,0.5,COK
+Costa Rica,0.54,CRI
+Cote d'Ivoire,0.64,CIV
+Croatia,0.68,HRV
+Cuba,0.64,CUB
+Cyprus,0.77,CYP
+Czech Republic,0.5,CZE
+"Congo, Republic of the",0.8,COG
+Denmark,0.51,DNK
+Djibouti,0.5,DJI
+Dominica,0.63,DMA
+Dominican Republic,0.37,DOM
+Ecuador,0.77,ECU
+Egypt,0.51,EGY
+El Salvador,0.54,SLV
+Equatorial Guinea,0.5,GNQ
+Eritrea,0.64,ERI
+Estonia,0.6,EST
+Ethiopia,0.37,ETH
+Falkland Islands (Islas Malvinas),0.52,FLK
+Fiji,0.78,FJI
+Finland,0.92,FIN
+France,0.5,FRA
+Gabon,0.54,GAB
+"Gambia, The",0.58,GMB
+Georgia,0.91,GEO
+Germany,0.63,DEU
+Ghana,0.51,GHA
+Gibraltar,0.78,GIB
+Greece,0.5,GRC
+Grenada,0.54,GRD
+Guam,0.53,GUM
+Guatemala,0.49,GTM
+Guinea,0.43,GIN
+Guinea-Bissau,0.51,GNB
+Guyana,0.51,GUY
+Haiti,0.5,HTI
+Honduras,0.74,HND
+Hong Kong,0.78,HKG
+Hungary,0.69,HUN
+Iceland,0.75,ISL
+India,0.56,IND
+Indonesia,0.66,IDN
+Iran,0.49,IRN
+Iraq,0.73,IRQ
+Ireland,0.76,IRL
+Israel,0.88,ISR
+Italy,0.51,ITA
+Jamaica,0.59,JAM
+Japan,0.75,JPN
+Jordan,0.73,JOR
+Kazakhstan,0.61,KAZ
+Kenya,0.61,KEN
+Kiribati,0.5,KIR
+Kuwait,0.69,KWT
+Kyrgyzstan,0.5,KGZ
+Laos,0.46,LAO
+Latvia,0.71,LVA
+Lebanon,0.65,LBN
+Lesotho,0.41,LSO
+Liberia,0.4,LBR
+Libya,0.61,LBY
+Lithuania,0.65,LTU
+Luxembourg,0.81,LUX
+Macau,0.54,MAC
+Macedonia,0.53,MKD
+Madagascar,0.51,MDG
+Malawi,0.51,MWI
+Malaysia,0.67,MYS
+Maldives,0.58,MDV
+Mali,0.5,MLI
+Malta,0.65,MLT
+Marshall Islands,0.5,MHL
+Martinique ,0.54,MTQ
+Mauritania,0.51,MRT
+Mauritius,0.6,MUS
+Mexico,0.65,MEX
+"Micronesia, Federated States of",0.5,FSM
+Moldova,0.58,MDA
+Mongolia,0.49,MNG
+Montserrat ,0.37,MSR
+Morocco,0.7,MAR
+Montserrat ,0.45,MSR
+Myanmar ,0.48,MMR
+Namibia,0.53,NAM
+Nauru ,0.34, NRU
+Nepal,0.5,NPL
+Netherlands,0.9,NLD
+Netherlands Antilles ,0.55,ANT
+New Caledonia,0.44,NCL
+New Zealand,0.55,NZL
+Nicaragua,0.51,NIC
+Nigeria,0.66,NGA
+Niger,0.49,NER
+Niue,0.35,NIU
+Norfolk Island ,0.37,NFK
+Norway,0.73,NOR
+Oman,0.54,OMN
+Pakistan,0.64,PAK
+Palau,0.51,PLW
+Panama,0.54,PAN
+Papua New Guinea,0.52,PNG
+Paraguay,0.5,PRY
+Peru,0.56,PER
+Philippines,0.59,PHL
+Poland,0.74,POL
+Portugal,0.74,PRT
+Qatar,0.7,QAT
+Romania,0.72,ROU
+Russia,0.83,RUS
+Rwanda,0.49,RWA
+Saint Kitts and Nevis,0.5,KNA
+Saint Lucia,0.55,LCA
+Saint Vincent and the Grenadines,0.5,VCT
+Sao Tome and Principe,0.43,STP
+Saudi Arabia,0.7,SAU
+Senegal,0.64,SEN
+Serbia,0.62,SRB
+Seychelles,0.58,SYC
+Sierra Leone,0.46,SLE
+Singapore,0.74,SGP
+Slovakia,0.63,SVK
+Slovenia,0.65,SVN
+Solomon Islands,0.37,SLB
+Somalia,0.47,SOM
+South Africa,0.69,ZAF
+South Korea,0.76,KOR
+Spain,0.82,ESP
+Sri Lanka,0.6,LKA
+Sudan,0.53,SDN
+Suriname,0.48,SUR
+Swaziland,0.41,SWZ
+Sweden,0.75,SWE
+Switzerland,0.84,CHE
+Syria,0.66,SYR
+Taiwan,0.65,TWN
+Tajikistan,0.49,TJK
+Tanzania,0.55,TZA
+Thailand,0.8,THA
+Togo,0.5,TGO
+Tonga,0.37,TON
+Trinidad and Tobago,0.59,TTO
+Tunisia,0.65,TUN
+Turkey,0.84,TUR
+Turkmenistan,0.47,TKM
+Tuvalu,0.34,TUV
+Uganda,0.53,UGA
+Ukraine,0.77,UKR
+United Arab Emirates,0.85,ARE
+United Kingdom,0.9,GBR
+United States,0.91,USA
+Uruguay,0.47,URY
+Uzbekistan,0.63,UZB
+Vanuatu,0.37,VUT
+Venezuela,0.65,VEN
+Vietnam,0.57,VNM
+Wallis and Futuna Islands ,0.34,FRA
+Yemen,0.58,YEM
+Zambia,0.5,ZMB
+Zimbabwe,0.51,ZWE

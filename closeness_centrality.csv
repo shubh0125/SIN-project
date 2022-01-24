@@ -1,0 +1,212 @@
+Country,Closeness Centrality,,Code
+Afghanistan ,0.49,,1
+Albania ,0.56,,2
+Algeria ,0.61,,3
+Angola ,0.53,,4
+Anguilla ,0.5,,5
+Antigua and Barbuda ,0.58,,6
+Argentina ,0.58,,7
+Armenia ,0.59,,8
+Aruba ,0.52,,9
+Australia ,0.59,,10
+Austria ,0.82,,11
+Azerbaijan ,0.64,,12
+Bahamas ,0.55,,13
+Bahrain ,0.65,,14
+Bangladesh ,0.57,,15
+Barbados ,0.58,,16
+Belarus ,0.58,,17
+Belgium ,0.81,,18
+Belize ,0.5,,19
+Benin ,0.5,,20
+Bermuda ,0.55,,21
+Bhutan ,0.43,,22
+Bolivia ,0.52,,23
+Bosnia and Herzegovina ,0.55,,24
+Botswana ,0.41,,25
+Brazil ,0.68,,26
+British Virgin Islands ,0.5,,27
+Brunei Darussalam ,0.49,,28
+Bulgaria ,0.65,,29
+Burkina Faso ,0.49,,30
+Burundi ,0.46,,31
+Cambodia ,0.48,,32
+Cameroon ,0.5,,33
+Canada ,0.82,,34
+Cape Verde ,0.58,,35
+Cayman Islands ,0.51,,36
+Central African Republic ,0.49,,37
+Chad ,0.49,,38
+Chile ,0.57,,39
+China ,0.79,,40
+Christmas Island ,0.44,,41
+Cocos (Keeling) Islands ,0.37,,42
+Colombia ,0.57,,43
+Comoros ,0.39,,44
+Congo ,0.51,,45
+Cook Islands ,0.5,,46
+Costa Rica ,0.54,,47
+Coted'Ivoire ,0.64,,48
+Croatia ,0.68,,49
+Cuba ,0.64,,50
+Cyprus ,0.77,,51
+Czech Republic ,0.5,,52
+the Congo ,0.8,,53
+Denmark ,0.51,,54
+Djibouti ,0.5,,55
+Dominica ,0.63,,56
+Dominican Republic ,0.37,,57
+East Timor ,0.53,,58
+Ecuador ,0.77,,59
+Egypt ,0.51,,60
+El Salvador ,0.54,,61
+Equatorial Guinea ,0.5,,62
+Eritrea ,0.64,,63
+Estonia ,0.6,,64
+Ethiopia ,0.37,,65
+Falkland Islands ,0.52,,66
+Fiji ,0.78,,67
+Finland ,0.92,,68
+France ,0.5,,69
+French Guiana ,0.51,,70
+French Polynesia ,0.49,,71
+Gabon ,0.54,,72
+Gambia ,0.58,,73
+Georgia ,0.91,,74
+Germany ,0.63,,74
+Ghana ,0.51,,76
+Gibraltar ,0.78,,77
+Greece ,0.5,,78
+Grenada and South Grenadines ,0.54,,79
+Guadeloupe ,0.53,,80
+Guatemala ,0.49,,81
+Guinea ,0.43,,82
+Guinea Bissau ,0.51,,83
+Guyana ,0.51,,84
+Haiti ,0.5,,85
+Honduras ,0.74,,86
+"Hong Kong SAR, China ",0.78,,87
+Hungary ,0.69,,88
+Iceland ,0.75,,89
+India ,0.56,,90
+Indonesia ,0.66,,91
+Iran ,0.49,,92
+Iraq ,0.73,,93
+Ireland ,0.76,,94
+Israel ,0.88,,95
+Italy ,0.51,,96
+Jamaica ,0.59,,97
+Japan ,0.75,,98
+Jordan ,0.73,,99
+Kazakhstan ,0.61,,100
+Kenya ,0.61,,101
+Kiribati ,0.5,,102
+Kuwait ,0.69,,103
+Kyrgyzstan ,0.5,,104
+Laos ,0.46,,105
+Latvia ,0.71,,106
+Lebanon ,0.65,,107
+Lesotho ,0.41,,108
+Liberia ,0.4,,109
+Libya ,0.61,,110
+Lithuania ,0.65,,111
+Luxembourg ,0.81,,112
+Macau ,0.54,,113
+Macedonia ,0.53,,114
+Madagascar ,0.51,,115
+Malawi ,0.51,,116
+Malaysia ,0.67,,117
+Maldives ,0.58,,118
+Mali ,0.5,,119
+Malta ,0.65,,120
+Marshall Islands ,0.5,,121
+Martinique ,0.54,,122
+Mauritania ,0.51,,123
+Mauritius ,0.6,,124
+Mexico ,0.65,,125
+Micronesia ,0.5,,126
+Moldova ,0.58,,127
+Mongolia ,0.49,,128
+Montserrat ,0.37,,129
+Morocco ,0.7,,130
+Mozambique ,0.45,,131
+Myanmar ,0.48,,132
+Namibia ,0.53,,133
+Nauru ,0.34,,134
+Nepal ,0.5,,135
+Netherlands ,0.9,,136
+Netherlands Antilles ,0.55,,137
+New Caledonia ,0.44,,138
+New Zealand ,0.55,,139
+Nicaragua ,0.51,,140
+Niger ,0.49,,141
+Nigeria ,0.66,,142
+Niue ,0.35,,143
+Norfolk Island ,0.37,,144
+Norway ,0.73,,145
+Oman ,0.54,,146
+Pakistan ,0.64,,147
+Palau ,0.51,,148
+Panama ,0.54,,149
+Papua New Guinea ,0.52,,150
+Paraguay ,0.5,,151
+Peru ,0.56,,152
+Philippines ,0.59,,153
+Poland ,0.74,,154
+Portugal ,0.74,,155
+Qatar ,0.7,,156
+Reunion ,0.51,,157
+Romania ,0.72,,158
+Russian Federation ,0.83,,159
+Rwanda ,0.49,,160
+Saint Kitts and Nevis ,0.5,,161
+Saint Lucia ,0.55,,162
+Saint Vincent And Grenadines ,0.5,,163
+Sao Tome and Principe ,0.43,,164
+Saudi Arabia ,0.7,,165
+Senegal ,0.64,,166
+Serbia ,0.62,,167
+Seychelles ,0.58,,168
+Sierra Leone ,0.46,,169
+Singapore ,0.74,,170
+Slovakia ,0.63,,171
+Slovenia ,0.65,,172
+Solomon Islands ,0.37,,173
+Somalia ,0.47,,174
+South Africa ,0.69,,175
+South Korea ,0.76,,176
+Spain ,0.82,,177
+Sri Lanka ,0.6,,178
+Sudan ,0.53,,179
+Suriname ,0.48,,180
+Swaziland ,0.41,,181
+Sweden ,0.75,,182
+Switzerland ,0.84,,183
+Syria ,0.66,,184
+"Taiwan, China ",0.65,,185
+Tajikistan ,0.49,,186
+Tanzania ,0.55,,187
+Thailand ,0.8,,188
+Togo ,0.5,,189
+Tonga ,0.37,,190
+Trinidad and Tobago ,0.59,,191
+Tunisia ,0.65,,192
+Turkey ,0.84,,193
+Turkmenistan ,0.47,,194
+Turks and Caicos Islands ,0.5,,195
+Tuvalu ,0.34,,196
+Uganda ,0.53,,197
+Ukraine ,0.77,,198
+United Arab Emirates ,0.85,,199
+United Kingdom ,0.9,,200
+United States ,0.91,,201
+Uruguay ,0.47,,202
+Uzbekistan ,0.63,,203
+Vanuatu ,0.37,,204
+Venezuela ,0.65,,205
+Vietnam ,0.57,,206
+Wallis and Futuna Islands ,0.34,,207
+Western Samoa ,0.5,,208
+Yemen ,0.58,,209
+Zambia ,0.5,,210
+Zimbabwe ,0.51,,211
